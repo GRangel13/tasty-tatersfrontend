@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+[Live deployment](https://tasty-tatersfrontend.grangel13.repl.co)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
